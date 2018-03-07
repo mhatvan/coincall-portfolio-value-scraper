@@ -1,0 +1,11 @@
+{
+  "name": "coincall_portfolio_value_scraper",
+  "version": "1.0.0",
+  "main": "coincall_portfolio_value_scraper.js",
+  "author": "mhatvan",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@slack/client": "3.15.0",
+    "puppeteer": "1.0.0"
+  }
+}
